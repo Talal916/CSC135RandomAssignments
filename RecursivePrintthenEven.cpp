@@ -3,8 +3,9 @@
 Author: Talal Jawaid
 Date: 9/13/2018
 Program Details:
-Prints all positive Ints from N to 0
-Then prints all positive EVEN Ints from 0 to N
+Recursive function that:
+	Prints all positive Ints from N to 0
+	Then prints all positive EVEN Ints from 0 to N
 */
 using namespace std;
 
